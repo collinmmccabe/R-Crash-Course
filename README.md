@@ -1,2 +1,2 @@
 # R Crash Course
-Introductory R workshop for OSU students
+A 2-hour introductory R workshop for OSU students participating in the OH I/O Hackathon
